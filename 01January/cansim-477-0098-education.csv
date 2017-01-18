@@ -1,0 +1,73 @@
+"Table 477-0098 Participation rate in education, population aged 15 to 29, by age group and type of institution attended, Canada, provinces and territories, occasional (percent)(1,2,3,4)"
+Survey or program details:
+Labour Force Survey - 3701
+"Geography (3,5,6)",Age group,"Type of institution attended (8,9)",1995/1996,2000/2001,2005/2006,2010/2011,2011/2012,2012/2013,2013/2014,2014/2015
+Newfoundland and Labrador,15 to 19 years,"Total, type of institution attended",79,83,85,83,81,84,83,85
+Newfoundland and Labrador,15 to 19 years,Elementary/High School,60,64,68,66,60,62,63,62
+Newfoundland and Labrador,15 to 19 years,College,6,6,4,7,7,6,8,7
+Newfoundland and Labrador,15 to 19 years,University,13,13,13,10,14,15,12,16
+Prince Edward Island,15 to 19 years,"Total, type of institution attended",78,82,85,81,79,81,84,83
+Prince Edward Island,15 to 19 years,Elementary/High School,62,65,67,61,61,59,61,62
+Prince Edward Island,15 to 19 years,College,4,4,4,5,6,7,9,6
+Prince Edward Island,15 to 19 years,University,12,12,14,15,12,15,14,14
+Nova Scotia,15 to 19 years,"Total, type of institution attended",85,84,84,82,84,83,84,83
+Nova Scotia,15 to 19 years,Elementary/High School,69,66,67,64,64,65,64,64
+Nova Scotia,15 to 19 years,College,4,6,4,7,5,7,6,7
+Nova Scotia,15 to 19 years,University,12,12,13,10,15,12,14,11
+New Brunswick,15 to 19 years,"Total, type of institution attended",77,80,82,82,80,81,83,84
+New Brunswick,15 to 19 years,Elementary/High School,60,63,65,62,62,61,62,63
+New Brunswick,15 to 19 years,College,5,6,5,5,5,7,7,7
+New Brunswick,15 to 19 years,University,12,10,11,15,14,13,15,13
+Quebec,15 to 19 years,"Total, type of institution attended",79,79,80,81,81,80,82,83
+Quebec,15 to 19 years,Elementary/High School,50,51,53,48,48,47,49,49
+Quebec,15 to 19 years,College,27,24,24,29,29,29,28,31
+Quebec,15 to 19 years,University,3,4,3,4,3,3,5,4
+Ontario (7),15 to 19 years,"Total, type of institution attended",85,84,85,86,86,88,87,87
+Ontario (7),15 to 19 years,Elementary/High School,72,72,66,65,64,64,63,62
+Ontario (7),15 to 19 years,College,6,7,7,8,7,8,9,8
+Ontario (7),15 to 19 years,University,7,5,12,14,15,15,15,17
+Manitoba,15 to 19 years,"Total, type of institution attended",76,76,80,79,78,79,79,78
+Manitoba,15 to 19 years,Elementary/High School,61,63,63,63,62,62,63,61
+Manitoba,15 to 19 years,College,3,3,4,3,4,4,3,3
+Manitoba,15 to 19 years,University,12,10,12,13,12,13,13,14
+Saskatchewan,15 to 19 years,"Total, type of institution attended",75,78,78,78,76,78,77,78
+Saskatchewan,15 to 19 years,Elementary/High School,61,64,65,64,63,62,62,63
+Saskatchewan,15 to 19 years,College,3,3,3,4,3,3,4,5
+Saskatchewan,15 to 19 years,University,11,10,10,10,10,13,11,10
+Alberta,15 to 19 years,"Total, type of institution attended",76,75,75,77,77,78,78,79
+Alberta,15 to 19 years,Elementary/High School,63,61,60,61,62,62,61,61
+Alberta,15 to 19 years,College,6,8,8,4,5,5,5,5
+Alberta,15 to 19 years,University,7,5,8,12,10,11,13,12
+British Columbia,15 to 19 years,"Total, type of institution attended",77,79,78,80,80,82,81,75
+British Columbia,15 to 19 years,Elementary/High School,60,63,61,60,60,61,60,54
+British Columbia,15 to 19 years,College,9,9,9,6,8,9,8,8
+British Columbia,15 to 19 years,University,8,7,8,13,12,12,13,13
+Yukon,15 to 19 years,"Total, type of institution attended",76,79,73,69,69,75,81,78
+Yukon,15 to 19 years,Elementary/High School,56,64,57,55,58,59,64,65
+Yukon,15 to 19 years,College,13,9,x,x,x,11,x,x
+Yukon,15 to 19 years,University,x,x,x,9,x,x,9,x
+Northwest Territories,15 to 19 years,"Total, type of institution attended",..,..,76,76,75,75,77,76
+Northwest Territories,15 to 19 years,Elementary/High School,..,..,69,70,65,62,66,65
+Northwest Territories,15 to 19 years,College,..,..,x,x,x,7,x,x
+Northwest Territories,15 to 19 years,University,..,..,x,x,6,6,x,7
+Nunavut,15 to 19 years,"Total, type of institution attended",..,..,69,64,61,56,62,63
+Nunavut,15 to 19 years,Elementary/High School,..,..,64,62,59,53,58,61
+Nunavut,15 to 19 years,College,..,..,x,x,x,x,x,x
+Nunavut,15 to 19 years,University,..,..,x,x,x,x,x,x
+Legend:
+x,Suppressed to meet the confidentiality requirements of the Statistics Act
+..,Not available
+E,Use with caution
+Footnotes:
+1,Source: Labour Force Survey (LFS).
+2,"Caution should be exercised in interpreting the ratios for the provinces and territories and differences in ratios between the provinces/territories and over time, as small estimates may present fairly high sampling variability. Estimates for small geographic areas, small age groups, or for cross-classified variables will be associated with larger variability."
+3,"Adjustments are made to LFS data every five years after new population estimates become available following the most recent census. At that time, all LFS data back to the previous census is re-weighted using the new population estimates (since the new population estimates will cover the inter-censal period between the two most recent censuses), and all corresponding historical LFS estimates are revised. Therefore, at the beginning of 2015, all estimates were adjusted to reflect 2011 Census population counts and LFS estimates have been revised back to January 2001."
+4,"Most of the estimates contained in this table have been assigned a letter to indicate their coefficient of variation (c.v.) (expressed as a percentage). The letter grades represent the following coefficients of variation: A is used for a c.v. between or equal to 0.00% and 5.00% and means Excellent, B is used for a c.v. between or equal to 5.01% and 15.00% and means Very good, C is used for a c.v. between or equal to 15.01% and 25.00% and means Good, D is used for a c.v. between or equal to 25.01% and 35.00% and means Acceptable, E is used for a c.v. greater than 35.00% and means Use with caution."
+5,"Labour Force Survey (LFS) estimates for Canada are derived using results from the provinces. LFS results for the territories are not included in the national estimates. Difficulties exist with respect to reaching small communities in the territories, and there are areas that are excluded. As well, since the sample design, rotation pattern and reliability criteria are different from those in the 10 provinces, estimates for the territories are not included with the provincial totals, but are calculated and reported separately."
+6,Province or territory of usual residence.
+7,The elimination of Grade 13 (Ontario Academic Credits [OAC]) in Ontario after 2002/2003 may have affected participation rates at certain ages.
+8,"The participation rate in education reflects the total enrolment in an elementary/high school, college, or university as a percentage of the total population for each age group. Includes full- and part-time students who were taking a ""credit course""; i.e., a course or program of instruction that could be counted towards a degree, certificate or diploma. The number of students is based on a monthly average from September to April."
+9,"Captures public and private educational establishments: elementary, junior high school, high school or equivalent; community college, junior college or CEGEP; and university. Other types of schools, such as private institutes or vocational or secretarial schools, are excluded from the numerators for the totals."
+Source:
+"Statistics Canada. Table 477-0098 - Participation rate in education, population aged 15 to 29, by age group and type of institution attended, Canada, provinces and territories, occasional (percent)"
+"(accessed: January 17, 2017)"
